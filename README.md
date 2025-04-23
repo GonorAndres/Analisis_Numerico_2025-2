@@ -1,5 +1,6 @@
-Tarea 1 de Análisis Númerico
+Tarea y proyectos de Análisis Númerico
 Con los integrantes:
+
 Andrés González Ortega
 
 Angel Vences Adame 
